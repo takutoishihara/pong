@@ -65,7 +65,6 @@ void keyReleased(){
     if(keyCode == UP)   ru = false;
     if(keyCode == DOWN) rd = false;
 }
-//上二つでキー入力を判別するとキーの同時押しとかができるようになる…らしい
  
 void setup(){//せっとあっぷ
     size(800,600);
